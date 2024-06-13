@@ -1,0 +1,6 @@
+Z:\osep\projects\me\Dll\Dll\bin\x64\Debug\Dll.dll
+Z:\osep\projects\me\Dll\Dll\bin\x64\Debug\Dll.pdb
+Z:\osep\projects\me\Dll\Dll\obj\x64\Debug\Dll.csproj.AssemblyReference.cache
+Z:\osep\projects\me\Dll\Dll\obj\x64\Debug\Dll.csproj.CoreCompileInputs.cache
+Z:\osep\projects\me\Dll\Dll\obj\x64\Debug\Dll.dll
+Z:\osep\projects\me\Dll\Dll\obj\x64\Debug\Dll.pdb

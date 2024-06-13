@@ -1,0 +1,12 @@
+Z:\osep\projects\me\Dll\Dll\bin\x64\Release\Dll.dll
+Z:\osep\projects\me\Dll\Dll\bin\x64\Release\Dll.pdb
+Z:\osep\projects\me\Dll\Dll\obj\x64\Release\Dll.csproj.AssemblyReference.cache
+Z:\osep\projects\me\Dll\Dll\obj\x64\Release\Dll.csproj.CoreCompileInputs.cache
+Z:\osep\projects\me\Dll\Dll\obj\x64\Release\Dll.dll
+Z:\osep\projects\me\Dll\Dll\obj\x64\Release\Dll.pdb
+C:\Users\User\Dropbox\pen\osep\projects\me\Dll\Dll\bin\x64\Release\Dll.dll
+C:\Users\User\Dropbox\pen\osep\projects\me\Dll\Dll\bin\x64\Release\Dll.pdb
+C:\Users\User\Dropbox\pen\osep\projects\me\Dll\Dll\obj\x64\Release\Dll.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\pen\osep\projects\me\Dll\Dll\obj\x64\Release\Dll.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\pen\osep\projects\me\Dll\Dll\obj\x64\Release\Dll.dll
+C:\Users\User\Dropbox\pen\osep\projects\me\Dll\Dll\obj\x64\Release\Dll.pdb
