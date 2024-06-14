@@ -1,0 +1,29 @@
+C:\Users\User\Dropbox\oscp\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe.config
+C:\Users\User\Dropbox\oscp\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe
+C:\Users\User\Dropbox\oscp\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.pdb
+C:\Users\User\Dropbox\oscp\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\oscp\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\oscp\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.exe
+C:\Users\User\Dropbox\oscp\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.pdb
+\\vmware-host\Shared Folders\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.exe
+\\vmware-host\Shared Folders\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.pdb
+Z:\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.AssemblyReference.cache
+Z:\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+Z:\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.exe
+Z:\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.pdb
+C:\Users\User\Dropbox\pen\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\pen\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\pen\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.exe
+C:\Users\User\Dropbox\pen\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.pdb
+C:\Users\User\Dropbox\pen\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe.config
+C:\Users\User\Dropbox\pen\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe
+C:\Users\User\Dropbox\pen\osep\projects\Windows_privesc\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.pdb
+C:\Users\User\Dropbox\pen\osep\projects\Process_injection\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe.config
+C:\Users\User\Dropbox\pen\osep\projects\Process_injection\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.exe
+C:\Users\User\Dropbox\pen\osep\projects\Process_injection\ProcessHollowing\ProcessHollowing\bin\x64\Release\ProcessHollowing.pdb
+C:\Users\User\Dropbox\pen\osep\projects\Process_injection\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\pen\osep\projects\Process_injection\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\pen\osep\projects\Process_injection\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.exe
+C:\Users\User\Dropbox\pen\osep\projects\Process_injection\ProcessHollowing\ProcessHollowing\obj\x64\Release\ProcessHollowing.pdb
